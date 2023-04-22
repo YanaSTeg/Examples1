@@ -1,1 +1,3 @@
-﻿Console.WriteLine("Hello, Яна, как дела?");
+﻿string username = Console.ReadLine();
+Console.WriteLine("Привет, ");
+Concole.WriteLine(username);
